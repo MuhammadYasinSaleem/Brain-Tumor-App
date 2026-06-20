@@ -53,6 +53,18 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 
 ---
 
+# Web UI Preview
+
+## Upload & Prediction Interface
+
+![App Screenshot](assets/image1.png)
+---
+
+## Prediction Result + Grad-CAM Output
+
+![App Screenshot](assets/image2.png)
+
+---
 ## API
 
 | Method | Endpoint   | Description |
